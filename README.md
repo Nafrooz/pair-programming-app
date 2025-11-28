@@ -22,7 +22,7 @@ A real-time collaborative coding platform that enables two or more users to writ
 - **SQLAlchemy**: SQL toolkit and ORM
 - **Uvicorn**: ASGI server
 
-### Frontend (Optional)
+### Frontend
 - **React 18**: UI library
 - **TypeScript**: Type-safe JavaScript
 - **Redux Toolkit**: State management
